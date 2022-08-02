@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sadieamato
 - 👀 I’m interested in using technology at the intersection of computer science and environmental science
 - 🌱 I’m currently learning about Models of Languages and Computation in Java
-- 📫 How to reach me: saamato@email.unc.edu // linkedin.com/in/sadie-amato
+- 📫 How to reach me: saamato@email.unc.edu // www.linkedin.com/in/sadie-amato
 - 💞️ I also enjoy hiking, baking, and listening to music
 
 <!---

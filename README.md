@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sadieamato
 - 👀 I’m interested in using technology at the intersection of computer science and environmental science
-- 🌱 I’m currently learning about algorithms and web development
+- 🌱 I’m currently learning about data visualization and VR
 - 📫 How to reach me: saamato@email.unc.edu // www.linkedin.com/in/sadie-amato
 - 💞️ I also enjoy hiking, baking, and listening to music
 
